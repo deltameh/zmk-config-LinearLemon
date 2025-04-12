@@ -1,0 +1,6 @@
+if SHIELD_LINEARLEMON
+           
+config ZMK_KEYBOARD_NAME
+    default "LinearLemon"
+
+endif
